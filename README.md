@@ -1,1 +1,1 @@
-Inscrições abertas para o curso de Clean Code e Clean Architecture em https://app.branas.io/clean-code-e-clean-architecture
+Mais informações sobre o curso de Clean Code e Clean Architecture em https://www.branas.io
